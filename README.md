@@ -4,8 +4,8 @@
 I build production AI systems, focusing on LLM integrations, RAG, and autonomous agents.
 
 ### Core Stack
-**Engineering:** `Python` `FastAPI` `PostgreSQL` `REST API` `Docker`  
-**AI Ecosystem:** `OpenAI` `Gemini` `Groq/Llama-3` `LangChain` `RAG` `PydanticAI` `Whisper-AI`  
+**Engineering:** `Python` `FastAPI` `Node.js` `PostgreSQL` `Docker` `HTML5` `CSS`  
+**AI Ecosystem:** `Prompt Engineering` `OpenAI` `Gemini` `Groq/Llama-3` `LangChain` `RAG` `PydanticAI` `Whisper-AI`  
 **AI Tooling:** `Cursor` `Claude Code` `Google Antigravity`
 
 ---
